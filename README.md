@@ -144,7 +144,7 @@
 
 ---
 
-## 🆕 What's New (Dec 2025)
+## 🆕 What's New (October 2025)
 
 ### 🧠 AI & Deep Learning (Latest)
 
